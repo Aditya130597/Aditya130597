@@ -1,9 +1,9 @@
-Hi, I’m Aditya Das
-I’m interested in Data Analysis, Data Science.
-I’m currently learning Machine Learning.
-I’m looking to collaborate on working on ML Models.
-Reach out to me on my email: das.aditya130597@outlook.com
-Pronouns: He/Him
+- Hi, I’m Aditya Das
+- I’m interested in Data Analysis, Data Science.
+- I’m currently learning Machine Learning.
+- I’m looking to collaborate on working on ML Models.
+- Reach out to me on my email: das.aditya130597@outlook.com
+- Pronouns: He/Him
  
 
 <!---
